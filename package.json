@@ -25,7 +25,7 @@
     "webpack-dev-server": "^1.7.0"
   },
   "dependencies": {
-    "react": "^0.12.2"
+    "react": ""
   },
   "scripts": {
     "example": "webpack-dev-server --content-base example/ --config example/webpack.config.js --progress --hot --inline"
